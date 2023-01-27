@@ -1,0 +1,1 @@
+This Repo is created to store all the code practice and solving the HackerRank.
