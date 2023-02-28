@@ -1,5 +1,3 @@
-
-
 q = int(input())
 
 li = []
